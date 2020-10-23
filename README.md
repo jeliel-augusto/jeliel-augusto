@@ -1,4 +1,4 @@
-### Hi there, I'm Jeliel Augusto, Full Stack Web Developer (Node.js/ React / Angular) 👋
+### Hi there, I'm Jeliel Augusto, Full Stack Developer (Node.js/ React / Angular) 👋
 - 🌱 I’m currently learning Microservices.
 - ⚡ Fun fact: I love animes.
 - 💬 Ask me about: React, Angular or Node.js.
